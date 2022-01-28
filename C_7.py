@@ -18,7 +18,7 @@ class Customer:
         elif 20 <= self.age < 65:
             return 1500
 
-        elif 61 <= self.age < 75:
+        elif 65 <= self.age < 75:
             return 1200
 
         else:
